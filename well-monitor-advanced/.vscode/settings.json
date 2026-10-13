@@ -1,0 +1,7 @@
+{ 
+"python.analysis.extraPaths": ["./src"], 
+"python.terminal.activateEnvironment": true, 
+"git.path": "C:\\Users\\ВашеИмя\\PortableGit\\bin\\git.exe", 
+"editor.rulers": [88], 
+    "files.encoding": "utf8" 
+} 
