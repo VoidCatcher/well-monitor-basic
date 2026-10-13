@@ -24,3 +24,6 @@ def print_well_card() -> None:
  
 if __name__ == "__main__": 
     print_well_card() 
+
+WELL_STATUS = "В работе" 
+print(f"Статус: {WELL_STATUS}") 
