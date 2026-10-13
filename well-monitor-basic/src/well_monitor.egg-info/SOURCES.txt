@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/well_monitor/__init__.py
+src/well_monitor/main.py
+src/well_monitor.egg-info/PKG-INFO
+src/well_monitor.egg-info/SOURCES.txt
+src/well_monitor.egg-info/dependency_links.txt
+src/well_monitor.egg-info/top_level.txt

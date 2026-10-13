@@ -1,0 +1,5 @@
+[project] 
+name = "well-monitor-basic" 
+version = "0.1.0" 
+description = "Учебный проект мониторинга нефтяной скважины" 
+requires-python = ">=3.11" 
